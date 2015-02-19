@@ -1,6 +1,6 @@
 # general configuration
 url: http://bryanjanice.github.io/new
-baseurl: ''
+baseurl: 'http://bryanjanice.github.io/new'
 
 # compass configuration
 compass:
